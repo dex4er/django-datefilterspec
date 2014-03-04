@@ -1,0 +1,40 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: django-datefilterspec 0.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-04 12:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Piotr Roszatycki <piotr.roszatycki@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+#: daterange_filter/filter.py:23
+msgid "From date"
+msgstr "Od daty"
+
+#: daterange_filter/filter.py:28
+msgid "To date"
+msgstr "Do daty"
+
+#: daterange_filter/filter.py:40
+msgid "From Date"
+msgstr "Od daty"
+
+#: daterange_filter/templates/daterange_filter/filter.html:2
+#, python-format
+msgid " By %(filter_title)s "
+msgstr " Przez %(filter_title)s"
+
+#: daterange_filter/templates/daterange_filter/filter.html:19
+msgid "Search"
+msgstr "Wyszukaj"
+
+#: daterange_filter/templates/daterange_filter/filter.html:20
+msgid "Clear"
+msgstr "Czyść"
